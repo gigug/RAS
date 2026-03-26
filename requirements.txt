@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+numpy<2.0
+pandas
+gdown
+tqdm
+statsmodels
+timm
+foolbox
+openood @ git+https://github.com/Jingkang50/OpenOOD
+cython>=0.17
+libmr
