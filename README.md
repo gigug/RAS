@@ -4,7 +4,7 @@ This is the source code for the paper "Ranked Activation Shift for Out-of-Distri
 The paper introduces RAS, a novel score-enhancing OoD detection method that is easy to use, hyperparameter-free and requires no assumptions on the model architecture.
 
 <p align="center">
-    <img src="./figures/explainer.png" alt="Explainer" width="400"/>
+    <img src="./figures/explainer.png" alt="Explainer" width="750"/>
     <br>
     <em>Visual intuition of RAS.</em>
 </p>
