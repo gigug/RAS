@@ -96,5 +96,11 @@ Results are saved as pickle files in the `run_results/` directory.
 ---
 
 ## 📚 References
-
-COMING SOON
+```bibtex
+@inproceedings{guglielmo2026ranked,
+  title={Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection},
+  author={Guglielmo, Gianluca and Masana, Marc},
+  booktitle={European Conference on Computer Vision},
+  year={2026},
+  organization={Springer}}
+```
